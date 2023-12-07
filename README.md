@@ -42,8 +42,8 @@ https://gorilla.cs.berkeley.edu/ "
 LangChain	Modular, developer-friendly, open-source	New, evolving concept	Free (open-source)	"https://lablab.ai/tech/langchain 
 https://www.langchain.com/ "
 
-# Huggingface credentials
+### Huggingface credentials
 
-# https://huggingface.co/login
+### https://huggingface.co/login
 anwarbadat1997.ab@gmail.com
 xg!@8aBjLDm;zk/
