@@ -47,3 +47,66 @@ https://www.langchain.com/ "
 ### https://huggingface.co/login
 anwarbadat1997.ab@gmail.com
 xg!@8aBjLDm;zk/
+
+# Configuring Github using Git Bash
+
+git config --global user.name "Your User Name"
+git config --global user.email "Your Email"
+git config --list
+
+# Clone and Status
+
+Clone - Cloning a repository on your local machine
+git clone <add link of remote repo here>
+
+Status -  Displays the state of the code
+git status
+
+# There are 4 status of files in Github
+
+1. untracked - Files which are not tracked by Git yet
+2. modified - changes tracked by Git
+3. staged - files are ready to be committed
+4. unmodified - unchanged files, nothing to commit
+
+# Add and Commit
+
+add - adds new or changed files in your working localise directory to the Git staging area
+git add <file name> (for specific file)
+git add . (for all the files in the directory)
+
+commit - it's a comment or record of change
+git commit -m "Put your comments inside these parenthesis"
+
+# Push Command
+
+push - upload local files to remote repository
+git push origin main (main is not by default by default is master you have to change it to main)
+
+# Init Command
+
+init - used to create new Git repo 
+
+git init
+git remote add origin <Put your remote repo link here>
+git remote -v (to check or verify remote repo)
+git branch (to check which branch you are at)
+git branch -M main (to rename branch)
+git push origin main
+
+# Branch Commands
+
+git branch (to check branch)
+git branch -M main (to rename branch)
+git checkout <write branch name here> (to navigate between the brnaches)
+git checkout -b <write name of new branch here> (to create a new branch)
+git branch -d <write branch name here> (to delete a branch)
+
+# Merging Code
+
+Way 1:
+git diff <write branch name here> (to compare commits, branches, files and more)
+git merge <write branch name here> (to merge two branches)
+
+Way 2:
+Create a pull request
