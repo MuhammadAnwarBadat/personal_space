@@ -50,63 +50,63 @@ xg!@8aBjLDm;zk/
 
 # Configuring Github using Git Bash
 
-git config --global user.name "Your User Name"
-git config --global user.email "Your Email"
+git config --global user.name "Your User Name" \m
+git config --global user.email "Your Email" \m
 git config --list
 
 # Clone and Status
 
-Clone - Cloning a repository on your local machine
-git clone <add link of remote repo here>
+Clone - Cloning a repository on your local machine \m
+git clone <add link of remote repo here> \m
 
-Status -  Displays the state of the code
+Status -  Displays the state of the code \m
 git status
 
-# There are 4 status of files in Github
+# There are 4 status files on GitHub
 
-1. untracked - Files which are not tracked by Git yet
-2. modified - changes tracked by Git
-3. staged - files are ready to be committed
+1. untracked - Files that are not tracked by Git yet \m
+2. modified - changes tracked by Git \m
+3. staged - files are ready to be committed \m
 4. unmodified - unchanged files, nothing to commit
 
 # Add and Commit
 
-add - adds new or changed files in your working localise directory to the Git staging area
-git add <file name> (for specific file)
-git add . (for all the files in the directory)
+add - adds new or changed files in your working localize directory to the Git staging area \m
+git add <file name> (for specific file) \m
+git add . (for all the files in the directory) \m
 
-commit - it's a comment or record of change
-git commit -m "Put your comments inside these parenthesis"
+commit - it's a comment or record of change \m
+git commit -m "Put your comments inside these parentheses" 
 
 # Push Command
 
-push - upload local files to remote repository
+push - upload local files to the remote repository \m
 git push origin main (main is not by default by default is master you have to change it to main)
 
 # Init Command
 
-init - used to create new Git repo 
+init - used to create a new Git repo \m
 
-git init
-git remote add origin <Put your remote repo link here>
-git remote -v (to check or verify remote repo)
-git branch (to check which branch you are at)
-git branch -M main (to rename branch)
+git init \m
+git remote add origin <Put your remote repo link here> \m
+git remote -v (to check or verify remote repo) \m
+git branch (to check which branch you are at) \m
+git branch -M main (to rename branch) \m
 git push origin main
 
 # Branch Commands
 
-git branch (to check branch)
-git branch -M main (to rename branch)
-git checkout <write branch name here> (to navigate between the brnaches)
-git checkout -b <write name of new branch here> (to create a new branch)
+git branch (to check branch) \m
+git branch -M main (to rename branch) \m
+git checkout <write branch name here> (to navigate between the branches) \m
+git checkout -b <write the name of the new branch here> (to create a new branch) \m
 git branch -d <write branch name here> (to delete a branch)
 
 # Merging Code
 
-Way 1:
-git diff <write branch name here> (to compare commits, branches, files and more)
-git merge <write branch name here> (to merge two branches)
+Way 1: \m
+git diff <write branch name here> (to compare commits, branches, files, and more) \m
+git merge <write branch name here> (to merge two branches) \m
 
-Way 2:
-Create a pull request
+Way 2: \m
+Create a pull request \m
