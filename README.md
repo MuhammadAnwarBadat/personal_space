@@ -45,7 +45,7 @@ https://www.langchain.com/ "
 ### Huggingface credentials
 
 ### https://huggingface.co/login
-anwarbadat1997.ab@gmail.com
+anwarbadat1997.ab@gmail.com \m
 xg!@8aBjLDm;zk/
 
 # Configuring Github using Git Bash
