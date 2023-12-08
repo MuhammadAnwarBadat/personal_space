@@ -1,16 +1,16 @@
 # personal_space
 
-https://docs.google.com/spreadsheets/d/1eJ4iWWi409UNSeBrNteMf7FpN61sDy4hycZ0rVuyDHg/edit#gid=0 
+https://docs.google.com/spreadsheets/d/1eJ4iWWi409UNSeBrNteMf7FpN61sDy4hycZ0rVuyDHg/edit#gid=0 <br>
 
 # How to deploy an LLM Model
 
-https://winder.ai/part-4-deploy-chatgpt-model-llm/
-https://gaper.io/deploy-custom-llm-applications/
+https://winder.ai/part-4-deploy-chatgpt-model-llm/ <br>
+https://gaper.io/deploy-custom-llm-applications/ <br>
 
 LLM	Strengths	Weaknesses	Pricing	Website
 Cohere	Text generation, search & understanding, conversation	Limited transparency, cost for private/on-premise	Public/private cloud options, custom quotes	"https://lablab.ai/tech/cohere 
 https://cohere.com/ 
-https://cohere.com/pricing "
+https://cohere.com/pricing " <br>
 
 GPT-3.5	Creative text formats, essay writing	Overhyped, can be biased	Pay-per-use, tiered pricing	"https://lablab.ai/tech/openai/gpt3-5  
 https://lablab.ai/tech/openai/gpt3   
@@ -45,38 +45,38 @@ https://www.langchain.com/ "
 ### Huggingface credentials
 
 ### https://huggingface.co/login
-anwarbadat1997.ab@gmail.com \m
+anwarbadat1997.ab@gmail.com <br>
 xg!@8aBjLDm;zk/
 
 # Configuring Github using Git Bash
 
-git config --global user.name "Your User Name" \m
-git config --global user.email "Your Email" \m
-git config --list
+git config --global user.name "Your User Name" <br>
+git config --global user.email "Your Email" <br>
+git config --list <br>
 
 # Clone and Status
 
-Clone - Cloning a repository on your local machine \m
-git clone <add link of remote repo here> \m
+Clone - Cloning a repository on your local machine <br>
+git clone <add link of remote repo here> <br>
 
-Status -  Displays the state of the code \m
-git status
+Status -  Displays the state of the code <br>
+git status <br>
 
 # There are 4 status files on GitHub
 
-1. untracked - Files that are not tracked by Git yet \m
-2. modified - changes tracked by Git \m
-3. staged - files are ready to be committed \m
-4. unmodified - unchanged files, nothing to commit
+1. untracked - Files that are not tracked by Git yet <br>
+2. modified - changes tracked by Git <br>
+3. staged - files are ready to be committed <br>
+4. unmodified - unchanged files, nothing to commit <br>
 
 # Add and Commit
 
-add - adds new or changed files in your working localize directory to the Git staging area \m
-git add <file name> (for specific file) \m
-git add . (for all the files in the directory) \m
+add - adds new or changed files in your working localize directory to the Git staging area <br>
+git add <file name> (for specific file) <br>
+git add . (for all the files in the directory) <br>
 
-commit - it's a comment or record of change \m
-git commit -m "Put your comments inside these parentheses" 
+commit - it's a comment or record of change <br>
+git commit -m "Put your comments inside these parentheses" <br>
 
 # Push Command
 
@@ -85,53 +85,53 @@ git push origin main (main is not by default by default is master you have to ch
 
 # Init Command
 
-init - used to create a new Git repo \m
+init - used to create a new Git repo <br>
 
 git init \m
-git remote add origin <Put your remote repo link here> \m
-git remote -v (to check or verify remote repo) \m
-git branch (to check which branch you are at) \m
-git branch -M main (to rename branch) \m
-git push origin main
+git remote add origin <Put your remote repo link here> <br>
+git remote -v (to check or verify remote repo) <br>
+git branch (to check which branch you are at) <br>
+git branch -M main (to rename branch) <br>
+git push origin main <br>
 
 # Branch Commands
 
-git branch (to check branch) \m
-git branch -M main (to rename branch) \m
-git checkout <write branch name here> (to navigate between the branches) \m
-git checkout -b <write the name of the new branch here> (to create a new branch) \m
-git branch -d <write branch name here> (to delete a branch)
+git branch (to check branch) <br>
+git branch -M main (to rename branch) <br>
+git checkout <write branch name here> (to navigate between the branches) <br>
+git checkout -b <write the name of the new branch here> (to create a new branch) <br>
+git branch -d <write branch name here> (to delete a branch) <br>
 
 # Merging Code
 
-Way 1: \m
-git diff <write branch name here> (to compare commits, branches, files, and more) \m
-git merge <write branch name here> (to merge two branches) \m
+Way 1: <br>
+git diff <write branch name here> (to compare commits, branches, files, and more) <br>
+git merge <write branch name here> (to merge two branches) <br>
 
-Way 2: \m
-Create a pull request \m
+Way 2: <br>
+Create a pull request <br>
 
-All the links:
+All the links: <br>
 
 ## Yesterday
-https://lablab.ai/tech/meta/llama-2
-https://huggingface.co/meta-llama
-https://github.com/facebookresearch/llama-recipes/blob/main/demo_apps/StructuredLlama.ipynb
-https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb
-https://huggingface.co/datasets/samsum
-https://huggingface.co/papers/2307.09288
-https://huggingface.co/models
-https://www.youtube.com/results?search_query=git+karen+on+ubuntu
-https://github.com/MuhammadAnwarBadat/personal_space/blob/main/README.md
+https://lablab.ai/tech/meta/llama-2 <br>
+https://huggingface.co/meta-llama <br>
+https://github.com/facebookresearch/llama-recipes/blob/main/demo_apps/StructuredLlama.ipynb <br>
+https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb <br>
+https://huggingface.co/datasets/samsum <br>
+https://huggingface.co/papers/2307.09288 <br>
+https://huggingface.co/models <br>
+https://www.youtube.com/results?search_query=git+karen+on+ubuntu <br>
+https://github.com/MuhammadAnwarBadat/personal_space/blob/main/README.md <br>
 
 ## Today
-https://www.youtube.com/results?search_query=reading+pdfs%2C+docx%2C+images%2C+text+with+llama+2+70b+bot+
-https://www.youtube.com/watch?v=TcJ_tVSGS4g&ab_channel=MuhammadMoin
-https://replicate.com/meta/llama-2-70b-chat/examples?input=python
-https://replicate.com/meta/llama-2-70b-chat
-https://github.com/replicate/cog-llama-template
-https://ai.meta.com/llama/#download-the-model
-https://www.youtube.com/watch?v=DXWwCggFROk&ab_channel=Fireship
-https://www.youtube.com/watch?v=Z6sCl6abJj4&ab_channel=KrisOgrabek
-https://huggingface.co/models?other=llama-2
-https://www.pinecone.io/learn/llama-2/
+https://www.youtube.com/results?search_query=reading+pdfs%2C+docx%2C+images%2C+text+with+llama+2+70b+bot+ <br>
+https://www.youtube.com/watch?v=TcJ_tVSGS4g&ab_channel=MuhammadMoin <br>
+https://replicate.com/meta/llama-2-70b-chat/examples?input=python <br>
+https://replicate.com/meta/llama-2-70b-chat <br>
+https://github.com/replicate/cog-llama-template <br>
+https://ai.meta.com/llama/#download-the-model <br>
+https://www.youtube.com/watch?v=DXWwCggFROk&ab_channel=Fireship <br>
+https://www.youtube.com/watch?v=Z6sCl6abJj4&ab_channel=KrisOgrabek <br>
+https://huggingface.co/models?other=llama-2 <br>
+https://www.pinecone.io/learn/llama-2/ <br>
