@@ -110,3 +110,28 @@ git merge <write branch name here> (to merge two branches) \m
 
 Way 2: \m
 Create a pull request \m
+
+All the links:
+
+## Yesterday
+https://lablab.ai/tech/meta/llama-2
+https://huggingface.co/meta-llama
+https://github.com/facebookresearch/llama-recipes/blob/main/demo_apps/StructuredLlama.ipynb
+https://github.com/facebookresearch/llama-recipes/blob/main/examples/quickstart.ipynb
+https://huggingface.co/datasets/samsum
+https://huggingface.co/papers/2307.09288
+https://huggingface.co/models
+https://www.youtube.com/results?search_query=git+karen+on+ubuntu
+https://github.com/MuhammadAnwarBadat/personal_space/blob/main/README.md
+
+## Today
+https://www.youtube.com/results?search_query=reading+pdfs%2C+docx%2C+images%2C+text+with+llama+2+70b+bot+
+https://www.youtube.com/watch?v=TcJ_tVSGS4g&ab_channel=MuhammadMoin
+https://replicate.com/meta/llama-2-70b-chat/examples?input=python
+https://replicate.com/meta/llama-2-70b-chat
+https://github.com/replicate/cog-llama-template
+https://ai.meta.com/llama/#download-the-model
+https://www.youtube.com/watch?v=DXWwCggFROk&ab_channel=Fireship
+https://www.youtube.com/watch?v=Z6sCl6abJj4&ab_channel=KrisOgrabek
+https://huggingface.co/models?other=llama-2
+https://www.pinecone.io/learn/llama-2/
